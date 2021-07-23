@@ -1,0 +1,2 @@
+# docker-swarm_pipline_test
+演示镜像创建的ci部分和镜像更新的cd部分

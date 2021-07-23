@@ -1,4 +1,4 @@
-module hellodocker-go
+module docker-swarm_pipline_test
 
 go 1.15
 

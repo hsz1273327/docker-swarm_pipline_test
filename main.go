@@ -8,7 +8,7 @@ func main() {
 	// 提供 unicode 实体
 	r.GET("/", func(c *gin.Context) {
 		c.JSON(200, gin.H{
-			"hello": "world",
+			"hello": "world v2",
 		})
 	})
 
